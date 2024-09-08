@@ -35,7 +35,10 @@ The Sorting Algorithm Visualizer provides an intuitive platform for observing an
 - **JavaScript:** For implementing the sorting algorithms, handling user interactions, and dynamically updating the visualization.
   
 ## Screenshot
+![Screenshot (502)](https://github.com/user-attachments/assets/caf86d3c-1b34-420d-9d51-7ef03fa87778)
 
+
+## HOSTED LINK :- https://sorting-visualizer-53wgkz4k7-manish12-vermas-projects.vercel.app/
 ## Getting Started
 
 To get started with the Sorting Algorithm Visualizer:
